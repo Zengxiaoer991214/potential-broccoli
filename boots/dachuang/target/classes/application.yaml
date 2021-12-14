@@ -1,0 +1,18 @@
+# 应用名称
+spring:
+  application:
+    name: dachuang
+  datasource:
+    username: zengrui
+    password: 991214Lilin
+    url: jdbc:mysql://aaaaaaaaaa.mysql.cn-chengdu.rds.aliyuncs.com/faxianbei?useUnicode=true&characterEncoding=UTF-8&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
+    driver-class-name: com.mysql.cj.jdbc.Driver
+server:
+  ssl:
+    key-store-type:
+    key-alias:
+  port: 8080
+
+
+
+

@@ -1,0 +1,198 @@
+[2021-09-13 08:29:48] [INFO]    Loading VSCodeConfigHelper, v2.2.14.0...
+[2021-09-13 08:29:48] [INFO]    System: 64bit
+[2021-09-13 08:29:48] [INFO]    Administrator: No
+[2021-09-13 08:29:48] [INFO]    VSCodeConfigHelper main form loaded successfully.
+[2021-09-13 08:29:50] [INFO]    User is selecting workspace folder path...
+[2021-09-13 08:29:57] [INFO]    User selected C:\Users\14467\Desktop\四川师范大学\c as workspace folder.
+[2021-09-13 08:30:02] [INFO]    User try to abort this configure...
+[2021-09-13 08:30:03] [INFO]    User cancel the operation. Configure continued.
+[2021-09-13 08:30:20] [INFO]    User is selecting workspace folder path...
+[2021-09-13 08:30:25] [INFO]    User selected C:\Users\14467\Desktop\scsf\c as workspace folder.
+[2021-09-13 08:30:27] [INFO]    User click next on Welcome page.
+[2021-09-13 08:30:27] [INFO]    User switched to MinGW page.
+[2021-09-13 08:30:27] [INFO]    MinGW Detected as below:
+[2021-09-13 08:30:27] [INFO]    MinGW-w64  8.1.0	C:\mingw64	g++.exe (x86_64-posix-seh-rev0, Built by MinGW-W64 project) 8.1.0
+[2021-09-13 08:30:28] [INFO]    User click next on MinGW Page. Dealing with MinGW...
+[2021-09-13 08:30:28] [INFO]    Selected MinGW Path: C:\mingw64
+[2021-09-13 08:30:28] [INFO]    User switched to Code/Extension page.
+[2021-09-13 08:30:28] [INFO]    Checking VS Code installation...
+[2021-09-13 08:30:28] [INFO]    Detecting VS Code path...
+[2021-09-13 08:30:28] [INFO]    Scanning Regitry HKCU...
+[2021-09-13 08:30:28] [INFO]    Value of the registry key: "C:\Users\14467\AppData\Local\Programs\Microsoft VS Code\Code.exe" "%1"
+[2021-09-13 08:30:28] [INFO]    Check if VS Code installed in wrong places...
+[2021-09-13 08:30:28] [INFO]    Detecting VS Code path...
+[2021-09-13 08:30:28] [INFO]    Scanning Registry HKLM...
+[2021-09-13 08:30:28] [INFO]    Key not found. VS Code may not installed.
+[2021-09-13 08:30:28] [INFO]    VS Code Installed correctly at C:\Users\14467\AppData\Local\Programs\Microsoft VS Code\Code.exe
+[2021-09-13 08:30:28] [INFO]    Checking if C/C++ extension installed...
+[2021-09-13 08:30:28] [INFO]    Execute command (maximum waiting time 5s):
+[2021-09-13 08:30:28] [INFO]    "c:\users\14467\appdata\local\programs\microsoft vs code\bin\code.cmd" --list-extensions
+[2021-09-13 08:30:30] [INFO]    Execute finished. Exit code is 0, while output:
+[2021-09-13 08:30:30] 
+abusaidm.html-snippets
+ahmadawais.shades-of-purple
+akamud.vscode-theme-onedark
+anseki.vscode-color
+austin.code-gnu-global
+azemoh.one-monokai
+Babadzhanov.retro-vibes
+bmewburn.vscode-intelephense-client
+catlair.chinese-clorem
+christian-kohler.path-intellisense
+CoenraadS.bracket-pair-colorizer
+cschlosser.doxdocgen
+dbaeumer.vscode-eslint
+dracula-theme.theme-dracula
+ecmel.vscode-html-css
+ElemeFE.vscode-element-helper
+esbenp.prettier-vscode
+felixfbecker.php-intellisense
+formulahendry.auto-close-tag
+formulahendry.auto-rename-tag
+formulahendry.code-runner
+gerane.Theme-Riot
+GitHub.github-vscode-theme
+GitHub.vscode-pull-request-github
+hiukky.flate
+HookyQR.beautify
+jcbuisson.vue
+jeff-hykin.better-cpp-syntax
+jeremyrajan.webpack
+johnsoncodehk.volar
+KnisterPeter.vscode-github
+liximomo.sftp
+lonefy.vscode-JS-CSS-HTML-formatter
+monokai.theme-monokai-pro-vscode
+ms-azuretools.vscode-docker
+MS-CEINTL.vscode-language-pack-zh-hans
+ms-python.python
+ms-python.vscode-pylance
+ms-toolsai.jupyter
+ms-vscode-remote.remote-containers
+ms-vscode-remote.remote-ssh
+ms-vscode-remote.remote-ssh-edit
+ms-vscode-remote.remote-wsl
+ms-vscode-remote.vscode-remote-extensionpack
+ms-vscode.cmake-tools
+ms-vscode.cpptools
+ms-vscode.cpptools-extension-pack
+ms-vscode.cpptools-themes
+ms-vsliveshare.vsliveshare
+ms-vsliveshare.vsliveshare-audio
+msjsdiag.vscode-react-native
+octref.vetur
+PKief.material-icon-theme
+praveenpuglia.tailwind-breeze
+remimarsal.prettier-now
+ritwickdey.LiveServer
+Serpen.vbsvscode
+skyran.js-jsx-snippets
+thekalinga.bootstrap4-vscode
+tht13.python
+twxs.cmake
+vscode-icons-team.vscode-icons
+vscodevim.vim
+xabikos.JavaScriptSnippets
+xabikos.ReactSnippets
+Yggdrasill-7C9.axios-snippets
+yzhang.markdown-all-in-one
+zhuangtongfa.material-theme
+
+[2021-09-13 08:30:30] [INFO]    C/C++ Extension installed.
+[2021-09-13 08:30:31] [INFO]    User switched to Style page.
+[2021-09-13 08:30:31] [INFO]    User clicked next on Code/Extension page.
+[2021-09-13 08:30:32] [INFO]    User clicked next on Configuration(Style) page.
+[2021-09-13 08:30:32] [INFO]    Is internal style: Yes
+[2021-09-13 08:30:32] [INFO]    Create .vscode folder and hide...
+[2021-09-13 08:30:32] [INFO]    Writing C:\Users\14467\Desktop\scsf\c\.vscode\launch.json
+[2021-09-13 08:30:33] [INFO]    launch.json written. Contents:
+[2021-09-13 08:30:33] 
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "g++.exe build and debug active file",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${workspaceFolder}",
+      "environment": [],
+      "externalConsole": false,
+      "MIMode": "gdb",
+      "miDebuggerPath": "C:\\mingw64\\bin\\gdb.exe",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ],
+      "preLaunchTask": "g++.exe build active file",
+      "internalConsoleOptions": "neverOpen"
+    }
+  ]
+}
+[2021-09-13 08:30:33] [INFO]    Writing C:\Users\14467\Desktop\scsf\c\.vscode\tasks.json
+[2021-09-13 08:30:33] [INFO]    tasks.json written. Contents:
+[2021-09-13 08:30:33] 
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "type": "shell",
+      "label": "g++.exe build active file",
+      "command": "C:\\mingw64\\bin\\g++.exe",
+      "args": [
+        "-g",
+        "-std=c++17",
+        "\"${file}\"",
+        "-o",
+        "\"${fileDirname}\\${fileBasenameNoExtension}.exe\""
+      ],
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "presentation": {
+        "echo": false,
+        "reveal": "silent",
+        "focus": false,
+        "panel": "shared",
+        "showReuseMessage": false,
+        "clear": true
+      },
+      "problemMatcher": [
+        "$gcc"
+      ]
+    }
+  ],
+  "options": {
+    "shell": {
+      "executable": "${env:SystemRoot}\\System32\\cmd.exe",
+      "args": [
+        "/c"
+      ]
+    },
+    "env": {
+      "Path": "C:\\mingw64\\bin;${env:Path}"
+    }
+  }
+}
+[2021-09-13 08:30:33] [INFO]    Writing C:\Users\14467\Desktop\scsf\c\.vscode\settings.json
+[2021-09-13 08:30:33] [INFO]    settings.json written. Contents:
+[2021-09-13 08:30:33] 
+{
+  "C_Cpp.default.intelliSenseMode": "gcc-x64",
+  "C_Cpp.default.compilerPath": "C:\\mingw64\\bin\\g++.exe",
+  "C_Cpp.default.cppStandard": "c++17",
+  "debug.onTaskErrors": "abort"
+}
+[2021-09-13 08:30:33] [INFO]    All JSON written. Configure almost done.
+[2021-09-13 08:30:33] [INFO]    User switched to Finish page.
+[2021-09-13 08:30:36] [INFO]    Writing test code file at C:\Users\14467\Desktop\scsf\c\helloworld.cpp
+[2021-09-13 08:30:36] [INFO]    Test code written.
+[2021-09-13 08:30:36] [INFO]    Launching VS Code by the following command:
+[2021-09-13 08:30:36] [INFO]    "C:\Users\14467\AppData\Local\Programs\Microsoft VS Code\Code.exe"  -g "C:\Users\14467\Desktop\scsf\c\helloworld.cpp:1" "C:\Users\14467\Desktop\scsf\c"
+[2021-09-13 08:30:39] [INFO]    User has successfully configured, and the form is closing.
